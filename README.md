@@ -1,5 +1,5 @@
 ### Hi there 👋 Dilshad
 
-Front-end Developer
+Front-End Developer
 
 
