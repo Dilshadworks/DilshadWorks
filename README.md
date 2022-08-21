@@ -6,12 +6,12 @@ I'm software a software engineer. Who love to solve problems using technologies.
 Currently
 🔭 I’m currently working as a Freelancer 
 
-🌱 I’m currently learning React / Angular
+🌱 I’m currently learning React
 
 
 
 Languages and Tools
-Bootstrap CSS3 SCSS HTML5 BEM JavaScript jquery WordPress WooCommerce D3.js Figma Invision Photoshop XD PowerShell XAMPP
+Bootstrap, CSS3, SCSS, HTML5, BEM, JavaScript, jquery, WordPress, WooCommerce, Figma, XD, Photoshop, XAMPP, Material UI
 
-Github Stats
+
 
