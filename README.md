@@ -10,7 +10,7 @@ Currently
 
 
 
-Languages and Tools
+Languages and Tools:
 Bootstrap, CSS3, SCSS, HTML5, BEM, JavaScript, jquery, WordPress, WooCommerce, Figma, XD, Photoshop, XAMPP, Material UI
 
 
