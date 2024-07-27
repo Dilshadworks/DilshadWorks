@@ -6,12 +6,10 @@ I'm a software engineer. Who love to solve problems using technologies. I believ
 Currently
 🔭 I’m currently working as a Freelancer 
 
-🌱 I’m currently learning React
-
-
+🌱 I’m currently learning Python
 
 Languages and Tools:
-Bootstrap, CSS3, SCSS & SASS, HTML5, BEM, JavaScript, jquery, WordPress, WooCommerce, Figma, XD, Photoshop, XAMPP, Material UI
-
+UI/UX, Bootstrap5, CSS3, Sass/SCSS, HTML5, BEM, Tailwind, jquery, WordPress, WooCommerce, Figma, XD, Photoshop, XAMPP, Material UI
+Front-end, JavaScript (ES6+), TypeScript, React.js(Next.js), Angular, Vue.js, Node.js, .NET, PHP/Laravel, MongoDB, AWS, CICD, MicroServices 
 
 
